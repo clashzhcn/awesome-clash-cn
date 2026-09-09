@@ -1,3 +1,4 @@
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 # Awesome Clash / 网络客户端 (中文)
 
 > 精选开源网络客户端、规则分流、订阅转换相关的高质量中文资源 🚀
