@@ -36,6 +36,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
   - [常见问题 FAQ](https://clashzhcn-ll.com/faq.html)
   - [订阅导入教程](https://clashzhcn-ll.com/guide/subscribe.html)
   - [与同类工具对比](https://clashzhcn-ll.com/compare.html)
+- [Just My Socks 中文教程：Clash 客户端导入订阅](https://justmysockss3.net/justmysocks-use-clash)：Clash Verge Rev、FlClash、Clash Party 等 Mihomo 内核客户端的订阅导入、更新和常见报错处理
 
 ## 💻 客户端下载
 
