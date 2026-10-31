@@ -67,6 +67,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 - [clash-speedtest](https://github.com/faceair/clash-speedtest) — 批量延迟测速
 - [mihomo 规则测试](https://clashzhcn-ll.com/tutorial/speed-test.html) — 延迟测速与自动选优
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) — macOS 网络诊断命令行工具（GPL-3.0-only）；可用 `kilobat proxy --json` 查看代理状态。需要可访问的 Clash 兼容 HTTP 控制器才能读取相关信息；该集成目前仅用模拟控制器测试，未完成真实代理 / VPN 端到端验证。命令输出和上游文档为英文；macOS 14+，Homebrew 源码构建需要 Xcode 16+。
 
 ## 💬 社区与讨论
 
